@@ -1,0 +1,14 @@
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\bin\Debug\net8.0\Simulador de Cajero.exe
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\bin\Debug\net8.0\Simulador de Cajero.deps.json
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\bin\Debug\net8.0\Simulador de Cajero.runtimeconfig.json
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\bin\Debug\net8.0\Simulador de Cajero.dll
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\bin\Debug\net8.0\Simulador de Cajero.pdb
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\Simulador de Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\Simulador de Cajero.AssemblyInfoInputs.cache
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\Simulador de Cajero.AssemblyInfo.cs
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\Simulador de Cajero.csproj.CoreCompileInputs.cache
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\Simulador de Cajero.dll
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\refint\Simulador de Cajero.dll
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\Simulador de Cajero.pdb
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\Simulador de Cajero.genruntimeconfig.cache
+C:\Users\usuario 1\Documents\Ceutec\T1474 PROGRAMACIÓN I 2024Q2\Semana4\Proyecto Final\Simulador de Cajero\Simulador de Cajero\obj\Debug\net8.0\ref\Simulador de Cajero.dll
